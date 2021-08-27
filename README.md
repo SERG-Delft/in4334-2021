@@ -64,9 +64,13 @@ _No preparation needed_
 
 2-4 students present the papers they read.
 
-### October 5th: Guest lecture
+### October 5th: Guest lecture: Alexander Serebrenik on Gender biases in SE
 
-TBD
+Alexander is the full professor of social software engineering at TU Eindhoven. His research domain is empirical software engineering including both its social and technical aspects. He is particularly interested in understanding and supporting diversity of software development teams, their communication and collaboration. Alexander likes mining software repositories, conducting surveys and interviews and measuring software artefacts and processes.
+
+Alexander will talk about his work on gender biases and this affects the software engineering world.
+
+_No preparation needed_
 
 ### October 7th: Paper discussions
 
