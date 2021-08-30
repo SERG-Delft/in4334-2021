@@ -86,7 +86,9 @@ _No preparation needed_
 
 ### October 19th: Elvan Kula on software effort estimation
 
-TODO
+[Elvan Kula](https://nl.linkedin.com/in/elvan-kula) is a doctoral candidate at TU Delft and chapter lead at ING. She focuses on using automated techniques to both understand and improve software development processes in terms of efficiency and predictability. She is the lab manager of AI for Fintech Research, a five year research collaboration between ING and TU Delft.
+
+Elvan will talk about her recent work on predicting delays in software deliveries at ING.
 
 ### October 29th: Presentation day and project deadline
 
