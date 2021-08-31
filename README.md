@@ -56,9 +56,11 @@ _No preparation needed_
 
 2-4 students present the papers they read.
 
-### September 28th: Paper discussions
+### September 28th: Georgios Gousios on ML at Facebook
 
-2-4 students present the papers they read.
+TBD
+
+_No preparation needed_
 
 ### September 30th: Paper discussions
 
