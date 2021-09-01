@@ -9,7 +9,7 @@ The goal of this seminar course is to give students an in-depth perspective of s
 In a nutshell: 
 
 * The course is composed of lectures, guest lectures, and paper discussions. 
-* Each student is responsible for one or two papers, depending on the number of students that enrol in the course. The student presents the paper to the colleagues and answer their questions. In the end of the course, the student also delivers a clear summary of the paper. Read more about how to select the paper, how to prepare the presentation, and how to write the summary later in this page.
+* Each student is responsible for one paper. The student presents the paper to the colleagues and answer their questions. In the end of the course, the student also delivers a clear summary of the paper. Read more about how to select the paper, how to prepare the presentation, and how to write the summary later in this page.
 * Each student proposes some new research in the topics of software analytics or machine learning and writes a short paper containing the plan. 
 * In the end of the course, students present their research ideas.
 
@@ -110,26 +110,27 @@ Students have two deliverables throughout the course:
 
 ### Paper summary
 
-Each student is responsible for 1-2 (depending on the number of registrations) paper summary. This task is composed of:
+Each student is responsible for one paper summary. This task is composed of:
 
-* One 10-15 minutes presentation summarizing the paper to the other students. This presentation will be given in one of the slots in our schedule. The presentation should be composed of:
+* One 10+5 minutes presentation summarizing the paper to the other students. This presentation will be given in one of the slots in our schedule. The presentation should be composed of:
   * Motivation of work: what problem does it solve? why is this an important problem?
   * Approach: how does the paper do it? 
   * Results: what are the findings of the paper?
   * Implications: how do the findings change the way we build software?
-* A summary of the paper in a blog post format. The summary should contain: 
-  * The same sections as in the presentation.
-  * A short summary. We partnered up with the [Never Work in Theory](https://neverworkintheory.org/) blog is an initiative of Greg Wilson. The blog, as described in its own page, contains "short summaries of recent results in empirical software engineering research". You should read at least three entries in the blog to understand the writing style.
-  * Both the summary and the short summary should be written in Markdown.
+* A summary of the paper in a blog post format. 
+  * See [summary format](summary-format.md) for more details on how this should be written
+  * We partnered up with the [Never Work in Theory](https://neverworkintheory.org/) blog is an initiative of Greg Wilson. The blog, as described in its own page, contains "short summaries of recent results in empirical software engineering research". At the end of the course, your article might be published there (_optional_)! Do your best!
 
 You are free to select a paper. Go for the topic that you are most interested! Some interesting lists of papers:
 
 * [Never Work in Theory's TODO list](https://neverworkintheory.org/todo/). This list mostly contains papers on software analytics and empirical software engineering.
 * Any of the Machine Learning papers we discussed in [last year's edition of this seminar](https://gousios.org/courses/ml4se/), which was way more focused on ML.
 
-Just to be on the same page, I need to approve your choice first. Please, post your choice in our Brightspace forum and I'll approve it. Note that two students cannot work on the same paper. The first that picks the paper has the priority.
+Note that two students cannot work on the same paper. The first students that picks the paper has the priority.
 
 The deadline of the presentation is the day of your presentation. I will assign students to slots randomly. The deadline of the summary is the last day of the course. Feel free to ask for feedback before the deadline.
+
+Select your paper and pick your summary presentation day in our Google Spreadsheets. First come first served! See the link in our Mattermost.
 
 ### Research project
 
@@ -140,7 +141,7 @@ You can go for:
 * A completely new research idea that has nothing to do with the papers we discussed. Maybe you have some experience in SE and wants to better understand some phenomenon.
 * An extension of a paper we discussed. Maybe you saw a paper and thought: "hmm, I'd research it differently; I'd go for a controlled experiment rather than a mining study". Feel free to propose extensions of papers.
 
-You should write a registered report that explains your research idea. See the [instructions](https://2021.msrconf.org/track/msr-2021-registered-reports?#Author-s-Guide-) the MSR conference gives to its authors. This should be written in Markdown.
+You should write a registered report that explains your research idea. See the [instructions](https://2021.msrconf.org/track/msr-2021-registered-reports?#Author-s-Guide-) the MSR conference gives to its authors. This should be written in Markdown. Note the examples at the bottom of the page there. Also see our [research-project-format.md] file for an example of the Markdown file you should deliver.
 
 Note that you are only going to write about the idea and its methodology; you are not going to execute the research itself here. Nevertheless, if you really appreciated your proposal and wants to do it, you are free to use this paper as a plan for your MSc thesis research!
 
