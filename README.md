@@ -25,7 +25,10 @@ As a preparation for this lecture, please read the following paper: _A. E. Hassa
 
 In this lecture, I will give you an introduction to the machine learning for software engineering topic.
 
-As a preparation for this lecture, please read the following paper: _Pradel, M., & Chandra, S. (2020). Neural software analysis. arXiv preprint arXiv:2011.07986._
+As a preparation for this lecture, please:
+
+* Watch the video by Georgios here: https://gousios.org/courses/ml4se/
+* Read the following paper: _Pradel, M., & Chandra, S. (2020). Neural software analysis. arXiv preprint arXiv:2011.07986._
 
 ### September 9th: Diomidis Spinellis on software analytics
 
@@ -141,7 +144,7 @@ You can go for:
 * A completely new research idea that has nothing to do with the papers we discussed. Maybe you have some experience in SE and wants to better understand some phenomenon.
 * An extension of a paper we discussed. Maybe you saw a paper and thought: "hmm, I'd research it differently; I'd go for a controlled experiment rather than a mining study". Feel free to propose extensions of papers.
 
-You should write a registered report that explains your research idea. See the [instructions](https://2021.msrconf.org/track/msr-2021-registered-reports?#Author-s-Guide-) the MSR conference gives to its authors. This should be written in Markdown. Note the examples at the bottom of the page there. Also see our [research-project-format.md] file for an example of the Markdown file you should deliver.
+You should write a registered report that explains your research idea. See the [instructions](https://2021.msrconf.org/track/msr-2021-registered-reports?#Author-s-Guide-) the MSR conference gives to its authors. This should be written in Markdown. Note the examples at the bottom of the page there. Also see an [example](research-project-format.md) of the Markdown file you should deliver.
 
 Note that you are only going to write about the idea and its methodology; you are not going to execute the research itself here. Nevertheless, if you really appreciated your proposal and wants to do it, you are free to use this paper as a plan for your MSc thesis research!
 
