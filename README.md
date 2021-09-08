@@ -77,9 +77,12 @@ Alexander will talk about his work on gender biases and this affects the softwar
 
 _No preparation needed_
 
-### October 7th: Paper discussions
+### October 7th: Chandra Maddila, Microsoft Research
 
-2-4 students present the papers they read.
+[Chandra Maddila](https://www.microsoft.com/en-us/research/people/chmaddil/) works with the Applied Sciences group @ Microsoft Research. His interest areas are Software Analytics, Empirical Software Engineering and Applications of Machine Learning, Artificial Intelligence for Software engineering and developer productivity problems.
+
+_No preparation needed_
+
 
 ### October 12th: Paper discussions
 
