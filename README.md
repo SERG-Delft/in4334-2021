@@ -9,9 +9,9 @@ The goal of this seminar course is to give students an in-depth perspective of s
 In a nutshell: 
 
 * The course is composed of lectures, guest lectures, and paper discussions. 
-* Each student is responsible for one paper. The student presents the paper to the colleagues and answer their questions. In the end of the course, the student also delivers a clear summary of the paper. Read more about how to select the paper, how to prepare the presentation, and how to write the summary later in this page.
-* Each student proposes some new research in the topics of software analytics or machine learning and writes a short paper containing the plan. 
-* In the end of the course, students present their research ideas.
+* Each team of students (2 people) is responsible for one paper. The team presents the paper to the colleagues and answer their questions. In the end of the course, the team also delivers a clear summary of the paper. Read more about how to select the paper, how to prepare the presentation, and how to write the summary later in this page.
+* Each team proposes some new research in the topics of software analytics or machine learning and writes a short paper containing the plan. 
+* In the end of the course, team present their research ideas.
 
 ## Schedule
 
@@ -38,9 +38,10 @@ Diomidis is one of the most influential researchers in the field of empirical so
 
 _No preparation needed_
 
-### September 14th: Paper discussions
+### September 14th: Paper discussions (session 1)
 
-2-4 students present the papers they read.
+- Team 5: M. Behroozi, C. Parnin and T. Barik, "Hiring is Broken: What Do Developers Say About Technical Interviews?," 2019 IEEE Symposium on Visual Languages and Human-Centric Computing (VL/HCC), 2019, pp. 1-9, doi: 10.1109/VLHCC.2019.8818836.
+- Team 3: Kui Liu, Dongsun Kim, Tegawende F. Bissyande, Shin Yoo, and Yves Le Traon: "Mining Fix Patterns for FindBugs Violations". IEEE Transactions on Software Engineering, 47(1), 2021, 10.1109/tse.2018.2884955.
 
 ### September 16th: Greg Wilson on How to Run a Meeting
 
@@ -51,13 +52,17 @@ Greg will talk about how to run a meeting, a fundamental skill in real-world sof
 _No preparation needed_
 
 
-### September 21st: Paper discussions
+### September 21st: Paper discussions (session 2)
 
-2-4 students present the papers they read.
+- Team 11: Pankaj Jalote and Damodaram Kamma: "Studying Task Processes for Improving Programmer Productivity". IEEE Transactions on Software Engineering, 47(4), 2021, 10.1109/tse.2019.2904230.
+- Team 12: M. Allamanis, M. Brockschmidt, and M. Khademi, “Learning to represent programs with graphs,” in International conference on learning representations, 2018.
+- Team 8: B. Ray, V. Hellendoorn, S. Godhane, Z. Tu, A. Bacchelli, and P. Devanbu, “On the" naturalness" of buggy code”
 
-### September 23rd: Paper discussions
+### September 23rd: Paper discussions (session 3)
 
-2-4 students present the papers they read.
+- Team 2: Allamanis, M., Barr, E. T., Ducousso, S., & Gao, Z. (2020, June). Typilus: Neural type hints. In Proceedings of the 41st acm sigplan conference on programming language design and implementation (pp. 91-105).
+- Team 9: F. Kortum, J. Klünder and K. Schneider, "Behavior-Driven Dynamics in Agile Development: The Effect of Fast Feedback on Teams," 2019 IEEE/ACM International Conference on Software and System Processes
+- Team 15: TBD
 
 ### September 28th: Georgios Gousios on ML at Facebook
 
@@ -65,9 +70,12 @@ TBD
 
 _No preparation needed_
 
-### September 30th: Paper discussions
+### September 30th: Paper discussions (session 4)
 
-2-4 students present the papers they read.
+- Team 1: Clement, Colin B., et al. "PyMT5: multi-mode translation of natural language and Python code with transformers." arXiv preprint arXiv:2010.03150 (2020).
+- Team 4: Jasmine Latendresse, Rabe Abdalkareem, Diego Elias Costa, and Emad Shihab: "How Effective is Continuous Integration in Indicating Single-Statement Bugs?". 2021 IEEE/ACM 18th International Conference on Mining Software Repositories (MSR), 10.1109/msr52588.2021.00062.
+- Team 7: TBD
+- Team 14: Afnan A. Al-Subaihin, Federica Sarro, Sue Black, Licia Capra, and Mark Harman: "App Store Effects on Software Engineering Practices". IEEE Transactions on Software Engineering, 47(2), 2021, 10.1109/tse.2019.2891715.
 
 ### October 5th: Guest lecture: Alexander Serebrenik on Gender biases in SE
 
@@ -84,13 +92,14 @@ _No preparation needed_
 _No preparation needed_
 
 
-### October 12th: Paper discussions
+### October 12th: Paper discussions (session 5)
 
-2-4 students present the papers they read.
+- Team 6: TBD
+- Team 10: TBD
 
-### October 14th: Paper discussions
+### October 14th: Paper discussions (session 6)
 
-2-4 students present the papers they read.
+TBD
 
 ### October 19th: Elvan Kula on software effort estimation
 
@@ -100,7 +109,7 @@ Elvan will talk about her recent work on predicting delays in software deliverie
 
 ### October 29th: Presentation day and project deadline
 
-Each student will present their research project:
+Each team will present their research project:
 
 * 10-15 minutes presentation
 * 10 minutes of questions
@@ -109,16 +118,16 @@ If allowed, this may happen on-campus.
 
 ## Deliverables
 
-Students have two deliverables throughout the course:
+Teams have two deliverables throughout the course:
 
 * A summary of a software analytics or machine learning for software engineering paper
 * The research project
 
 ### Paper summary
 
-Each student is responsible for one paper summary. This task is composed of:
+Each team is responsible for one paper summary. This task is composed of:
 
-* One 10+5 minutes presentation summarizing the paper to the other students. This presentation will be given in one of the slots in our schedule. The presentation should be composed of:
+* One 10+5 (or 10+10 depending on the number of papers in that session) minutes presentation summarizing the paper to the other students. This presentation will be given in one of the slots in our schedule. The presentation should be composed of:
   * Motivation of work: what problem does it solve? why is this an important problem?
   * Approach: how does the paper do it? 
   * Results: what are the findings of the paper?
@@ -132,9 +141,9 @@ You are free to select a paper. Go for the topic that you are most interested! S
 * [Never Work in Theory's TODO list](https://neverworkintheory.org/todo/). This list mostly contains papers on software analytics and empirical software engineering.
 * Any of the Machine Learning papers we discussed in [last year's edition of this seminar](https://gousios.org/courses/ml4se/), which was way more focused on ML.
 
-Note that two students cannot work on the same paper. The first students that picks the paper has the priority.
+Note that two teams cannot work on the same paper. The first team that picks the paper has the priority.
 
-The deadline of the presentation is the day of your presentation. I will assign students to slots randomly. The deadline of the summary is the last day of the course. Feel free to ask for feedback before the deadline.
+The deadline of the presentation is the day of your presentation. I will assign teams to slots randomly. The deadline of the summary is the last day of the course. Feel free to ask for feedback before the deadline.
 
 Select your paper and pick your summary presentation day in our Google Spreadsheets. First come first served! See the link in our Mattermost.
 
