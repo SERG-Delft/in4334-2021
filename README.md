@@ -97,9 +97,9 @@ _No preparation needed_
 - Team 6: TBD
 - Team 10: TBD
 
-### October 14th: Paper discussions (session 6)
+### October 14th: No lecture
 
-TBD
+No lecture. Use this slot to work on your research project.
 
 ### October 19th: Elvan Kula on software effort estimation
 
