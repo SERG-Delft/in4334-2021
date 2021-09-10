@@ -63,7 +63,8 @@ _No preparation needed_
 - Team 2: Allamanis, M., Barr, E. T., Ducousso, S., & Gao, Z. (2020, June). Typilus: Neural type hints. In Proceedings of the 41st acm sigplan conference on programming language design and implementation (pp. 91-105).
 - Team 9: F. Kortum, J. Klünder and K. Schneider, "Behavior-Driven Dynamics in Agile Development: The Effect of Fast Feedback on Teams," 2019 IEEE/ACM International Conference on Software and System Processes
 - Team 15: TBD
-- Team 16: TBD
+- Team 16: S. Iyer, I. Konstas, A. Cheung, and L. Zettlemoyer, “Summarizing source code using a neural attention model,” in Proceedings of the 54th annual meeting 
+of the association for computational linguistics (volume 1: Long papers), 2016, pp. 2073–2083.
 
 ### September 28th: Georgios Gousios on ML at Facebook
 
@@ -96,7 +97,7 @@ _No preparation needed_
 ### October 12th: Paper discussions (session 5)
 
 - Team 6: Rak-amnouykit, I., McCrevan, D., Milanova, A., Hirzel, M., & Dolby, J. (2020). Python 3 types in the wild: a tale of two type systems. Proceedings of the 16th ACM SIGPLAN International Symposium on Dynamic Languages. doi:10.1145/3426422.3426981 
-- Team 10: TBD
+- Team 10: van der Laan, N. (2021)."Deep Just-in-Time Defect Prediction at Adyen". MSc thesis, Delft University of Technology, TU Delft Education repository.
 - Team 13: TBD
 
 ### October 14th: No lecture
