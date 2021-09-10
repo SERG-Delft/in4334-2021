@@ -98,7 +98,7 @@ _No preparation needed_
 
 - Team 6: Rak-amnouykit, I., McCrevan, D., Milanova, A., Hirzel, M., & Dolby, J. (2020). Python 3 types in the wild: a tale of two type systems. Proceedings of the 16th ACM SIGPLAN International Symposium on Dynamic Languages. doi:10.1145/3426422.3426981 
 - Team 10: van der Laan, N. (2021)."Deep Just-in-Time Defect Prediction at Adyen". MSc thesis, Delft University of Technology, TU Delft Education repository.
-- Team 13: TBD
+- Team 13: M. Pradel, V. Murali, R. Qian, M. Machalica, E. Meijer, and S. Chandra, “Scaffle: Bug localization on millions of files,” in Proceedings of the 29th ACM SIGSOFT international symposium on software testing and analysis, 2020, pp. 225–236.
 
 ### October 14th: No lecture
 
