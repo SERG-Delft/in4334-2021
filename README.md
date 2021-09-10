@@ -95,8 +95,9 @@ _No preparation needed_
 
 ### October 12th: Paper discussions (session 5)
 
-- Team 6: TBD
+- Team 6: Rak-amnouykit, I., McCrevan, D., Milanova, A., Hirzel, M., & Dolby, J. (2020). Python 3 types in the wild: a tale of two type systems. Proceedings of the 16th ACM SIGPLAN International Symposium on Dynamic Languages. doi:10.1145/3426422.3426981 
 - Team 10: TBD
+- Team 13: TBD
 
 ### October 14th: No lecture
 
