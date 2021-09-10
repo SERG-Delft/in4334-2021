@@ -108,6 +108,8 @@ No lecture. Use this slot to work on your research project.
 
 Elvan will talk about her recent work on predicting delays in software deliveries at ING.
 
+_No preparation needed_
+
 ### October 29th: Presentation day and project deadline
 
 Each team will present their research project:
