@@ -63,6 +63,7 @@ _No preparation needed_
 - Team 2: Allamanis, M., Barr, E. T., Ducousso, S., & Gao, Z. (2020, June). Typilus: Neural type hints. In Proceedings of the 41st acm sigplan conference on programming language design and implementation (pp. 91-105).
 - Team 9: F. Kortum, J. Klünder and K. Schneider, "Behavior-Driven Dynamics in Agile Development: The Effect of Fast Feedback on Teams," 2019 IEEE/ACM International Conference on Software and System Processes
 - Team 15: TBD
+- Team 16: TBD
 
 ### September 28th: Georgios Gousios on ML at Facebook
 
