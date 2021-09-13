@@ -62,7 +62,7 @@ _No preparation needed_
 
 - Team 2: Allamanis, M., Barr, E. T., Ducousso, S., & Gao, Z. (2020, June). Typilus: Neural type hints. In Proceedings of the 41st acm sigplan conference on programming language design and implementation (pp. 91-105).
 - Team 9: F. Kortum, J. Klünder and K. Schneider, "Behavior-Driven Dynamics in Agile Development: The Effect of Fast Feedback on Teams," 2019 IEEE/ACM International Conference on Software and System Processes
-- Team 15: TBD
+- Team 15: Svyatkovskiy, A., Zhao, Y., Fu, S., & Sundaresan, N. (2019, July). Pythia: AI-assisted code completion system. In Proceedings of the 25th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining (pp. 2727-2735).
 - Team 16: S. Iyer, I. Konstas, A. Cheung, and L. Zettlemoyer, “Summarizing source code using a neural attention model,” in Proceedings of the 54th annual meeting 
 of the association for computational linguistics (volume 1: Long papers), 2016, pp. 2073–2083.
 
@@ -76,7 +76,7 @@ _No preparation needed_
 
 - Team 1: Clement, Colin B., et al. "PyMT5: multi-mode translation of natural language and Python code with transformers." arXiv preprint arXiv:2010.03150 (2020).
 - Team 4: Jasmine Latendresse, Rabe Abdalkareem, Diego Elias Costa, and Emad Shihab: "How Effective is Continuous Integration in Indicating Single-Statement Bugs?". 2021 IEEE/ACM 18th International Conference on Mining Software Repositories (MSR), 10.1109/msr52588.2021.00062.
-- Team 7: TBD
+- Team 7: Brittany Johnson, Thomas Zimmermann, and Christian Bird: "The Effect of Work Environments on Productivity and Satisfaction of Software Engineers". IEEE Transactions on Software Engineering, 47(4), 2021, 10.1109/tse.2019.2903053.
 - Team 14: Afnan A. Al-Subaihin, Federica Sarro, Sue Black, Licia Capra, and Mark Harman: "App Store Effects on Software Engineering Practices". IEEE Transactions on Software Engineering, 47(2), 2021, 10.1109/tse.2019.2891715.
 
 ### October 5th: Guest lecture: Alexander Serebrenik on Gender biases in SE
