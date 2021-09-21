@@ -119,7 +119,7 @@ Each team will present their research project:
 * 10-15 minutes presentation
 * 10 minutes of questions
 
-If allowed, this may happen on-campus.
+**This session will be held on campus, lecture hall Chip!**
 
 ## Deliverables
 
