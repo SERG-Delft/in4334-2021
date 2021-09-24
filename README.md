@@ -68,9 +68,11 @@ of the association for computational linguistics (volume 1: Long papers), 2016, 
 
 ### September 28th: Georgios Gousios on ML at Facebook
 
-TBD
+At Facebook, around 50k software engineers and data scientistics work on a single monorepo. The BigCode team is capitalizing on the availability of rich historical data to automate software engineering tasks at scale. In our talk, we will first present a few tools (and their design) that have been developed by the BigCode team and then dive into TypeWriter, a ML tool to predict types for Python by learning them from the existing codebase.
 
-_No preparation needed_
+Read this paper before the lecture: https://arxiv.org/pdf/1912.03768.pdf
+
+_(This talk will NOT be recorded)_
 
 ### September 30th: Paper discussions (session 4)
 
